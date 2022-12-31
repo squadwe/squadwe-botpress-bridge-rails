@@ -85,8 +85,6 @@ Generate random SECRET_KEY_BASE with
 rake secret
 ```
 
-<img src=".github/images/configure-env-vars.png" width="100%" alt=""/>
-
 3 - Configure http port
 In http settings set `Container HTTP Port` to `3000`
 <img src=".github/images/http-port.png" width="100%" alt=""/>
